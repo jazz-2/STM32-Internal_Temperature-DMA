@@ -4,12 +4,15 @@ Internal temperature reading using Nucleo-64 STM32F446RE
 
 ## Rise in CPU temperature starts the DC motor and LED
 -----------------------------------
+![TempSensorPWMMotor](https://github.com/jazz-2/STM32-Internal_Temperature-DMA/assets/141406828/789cf69a-f03d-417c-bc8b-074f0aeb4c9b)
 
 ### Average of temperatures from a given number of samples 
 -----------------------------------
-
+![temperatureSamples](https://github.com/jazz-2/STM32-Internal_Temperature-DMA/assets/141406828/a6a62b26-eeb3-4213-93a4-e591b3d3f831)
 ### Circuit
 -----------------------------------
+![circuitPhoto](https://github.com/jazz-2/STM32-Internal_Temperature-DMA/assets/141406828/30086d00-d25d-4dad-8318-a31519af7625)
+
 
 
 #### Description
